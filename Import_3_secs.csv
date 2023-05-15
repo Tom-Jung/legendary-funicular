@@ -1,0 +1,5 @@
+name,Agriculture,Manufacturing,Services,Total intermediate demand,Conumption,Investment,Exports,Total final demand,Total demand
+Agriculture,1,7,3,11,2,1,0,3,14
+Manufacturing,1,33,10,44,6,6,3,15,59
+Services,1,2,6,9,2,1,0,3,12
+Total intermediate input,3,42,19,64,10,8,3,21,85
